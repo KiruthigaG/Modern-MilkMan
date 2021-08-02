@@ -1,0 +1,3 @@
+Regarding the second Scenario - Fill the Signup form, I am not able to click the element on the checkbox for the Terms and Conditions, so currently this fails on this step
+Regarding the Third scenario - Update email address, with debug mode it passes, as it takes little longer on the login page, with implicit wait it still fails when i run the test,
+I did not have enough time for exploring the options on Explicit wait.
